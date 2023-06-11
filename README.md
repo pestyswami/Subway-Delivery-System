@@ -56,7 +56,7 @@
     15. 해당 택배를 수락한 딜리버가 있을 시 반복문을 종료한다.  
 
 시연영상  
-![Simulator-Screen-Recording-iPhone-14-Pro-Max-2023-06-12-at-00 54 13 (1)](https://github.com/pestyswami/Subway-Delivery-System/assets/112605911/3fc29d92-25fd-46ca-82e0-b85a1753cf35)
+![ezgif com-resize](https://github.com/pestyswami/Subway-Delivery-System/assets/112605911/1a470175-04a1-47dd-9be7-3635bdd600b0)
 
 
 
